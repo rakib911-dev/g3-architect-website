@@ -90,6 +90,9 @@ main > section {
     grid-template-columns: repeat(2, 1fr);
     gap: 24px;
 }
+.team-img-container img{
+    width: 100%;
+}
 .our-features{
     margin-left: 130px;
     max-width: 530px;
@@ -231,7 +234,6 @@ footer{
         margin-left: 20px;
     }
     .copyright{
-
         padding: 20px 0px;
         margin-top: 20px;
         margin-bottom: 20px;
